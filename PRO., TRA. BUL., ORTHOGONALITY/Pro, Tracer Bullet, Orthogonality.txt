@@ -1,0 +1,11 @@
+PROTOTYPE AND TRACER BULLET
+    Prototype produces disposable code on the other hand tracer bullet produces lean but complete parts of the skeleton of final system. 
+    You can think that prototype is the first step before you shot first your tracer bullet.
+    Prototypes are essentially a way to test the boundaries of what you can and cannot do for your user stories. Essentially it's just a dummy application that's only use is to test whether or not a solution is possible for given problem. 
+    Tracer bullets are used for "Skeleton Applications" which are just shells of applications that don't contain much (if any) functionality, but walk through the extent of the program's life. i.e. connects to the client, connects to the database, queries the database (but you don't really care about the data). The skeleton application is basically the framework for your application.
+
+ORHOGONALİTY
+    In computer science, we use the concept of orthogonality to show the importance of independence and decomposition. If two things are perpendicular to each other, changes you make to one will not affect the other. For example, in a well-designed system, database codes should be vertical to the user interface.
+*The simultaneous use of electricity and water in a house is independent of each other, one does not affect the other.
+*Watching a movie on a plane and the speed of the plane are independent of each other, one does not affect the other.
+*A school recess and homework are independent of each other, one does not affect the other.
